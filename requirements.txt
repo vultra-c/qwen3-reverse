@@ -13,8 +13,6 @@ pydantic>=2.8.2
 
 # File upload support
 python-multipart>=0.0.6
-# Database
-SQLite4  # Built-in Python module, no need to install
 
 # Standard library modules (no installation needed):
 # uuid
